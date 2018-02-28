@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6F4243B-FCE5-4F8F-8FB3-45D9C75C9985}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VISAP商科应用</RootNamespace>
+    <AssemblyName>VISAP商科应用</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\2files\C_sharp_code\发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8755B9F413D8A6197BA8542DD276FE0DCE3FDBF7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VISAP商科应用_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ANOVA_OneWay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANOVA_OneWay.Designer.cs">
+      <DependentUpon>ANOVA_OneWay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BetaPosterior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BetaPosterior.Designer.cs">
+      <DependentUpon>BetaPosterior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BigCalculate.cs" />
+    <Compile Include="BigDecimal.cs" />
+    <Compile Include="BigNumber.cs" />
+    <Compile Include="Binnomial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Binnomial.Designer.cs">
+      <DependentUpon>Binnomial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompareNumber.cs" />
+    <Compile Include="Correlation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Correlation.Designer.cs">
+      <DependentUpon>Correlation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataCleaning.cs" />
+    <Compile Include="DecimalCalculator.cs" />
+    <Compile Include="DirichletPosterior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirichletPosterior.Designer.cs">
+      <DependentUpon>DirichletPosterior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EasyGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EasyGraph.Designer.cs">
+      <DependentUpon>EasyGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Economicdata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Economicdata.Designer.cs">
+      <DependentUpon>Economicdata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpressionException.cs" />
+    <Compile Include="GraphSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphSet.Designer.cs">
+      <DependentUpon>GraphSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypothesisTesting_2Sample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypothesisTesting_2Sample.Designer.cs">
+      <DependentUpon>HypothesisTesting_2Sample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HypothesisTesting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HypothesisTesting.Designer.cs">
+      <DependentUpon>HypothesisTesting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IdentifyNumber.cs" />
+    <Compile Include="ImportCSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportCSV.Designer.cs">
+      <DependentUpon>ImportCSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MathV.cs" />
+    <Compile Include="Multinomial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multinomial.Designer.cs">
+      <DependentUpon>Multinomial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleChoice .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultipleChoice .Designer.cs">
+      <DependentUpon>MultipleChoice .cs</DependentUpon>
+    </Compile>
+    <Compile Include="NaiveBayesian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NaiveBayesian.Designer.cs">
+      <DependentUpon>NaiveBayesian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NAOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NAOperation.Designer.cs">
+      <DependentUpon>NAOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumberException.cs" />
+    <Compile Include="ParameterEstimation_2Sample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParameterEstimation_2Sample.Designer.cs">
+      <DependentUpon>ParameterEstimation_2Sample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParameterEstimation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParameterEstimation.Designer.cs">
+      <DependentUpon>ParameterEstimation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickPlot.cs" />
+    <Compile Include="Regression.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regression.Designer.cs">
+      <DependentUpon>Regression.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportV.cs" />
+    <Compile Include="SelectExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectExcel.Designer.cs">
+      <DependentUpon>SelectExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpatialMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpatialMap.Designer.cs">
+      <DependentUpon>SpatialMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Split.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Split.Designer.cs">
+      <DependentUpon>Split.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stat.cs" />
+    <Compile Include="Stockdata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stockdata.Designer.cs">
+      <DependentUpon>Stockdata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StrManipulation.cs" />
+    <Compile Include="Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Summary.Designer.cs">
+      <DependentUpon>Summary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tabulation.cs" />
+    <Compile Include="TaylorFunction.cs" />
+    <Compile Include="Timeseries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timeseries.Designer.cs">
+      <DependentUpon>Timeseries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VariableSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VariableSet.Designer.cs">
+      <DependentUpon>VariableSet.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ANOVA_OneWay.resx">
+      <DependentUpon>ANOVA_OneWay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BetaPosterior.resx">
+      <DependentUpon>BetaPosterior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Binnomial.resx">
+      <DependentUpon>Binnomial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Correlation.resx">
+      <DependentUpon>Correlation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirichletPosterior.resx">
+      <DependentUpon>DirichletPosterior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EasyGraph.resx">
+      <DependentUpon>EasyGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Economicdata.resx">
+      <DependentUpon>Economicdata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphSet.resx">
+      <DependentUpon>GraphSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypothesisTesting_2Sample.resx">
+      <DependentUpon>HypothesisTesting_2Sample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HypothesisTesting.resx">
+      <DependentUpon>HypothesisTesting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportCSV.resx">
+      <DependentUpon>ImportCSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multinomial.resx">
+      <DependentUpon>Multinomial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleChoice .resx">
+      <DependentUpon>MultipleChoice .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NaiveBayesian.resx">
+      <DependentUpon>NaiveBayesian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NAOperation.resx">
+      <DependentUpon>NAOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterEstimation_2Sample.resx">
+      <DependentUpon>ParameterEstimation_2Sample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParameterEstimation.resx">
+      <DependentUpon>ParameterEstimation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Regression.resx">
+      <DependentUpon>Regression.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectExcel.resx">
+      <DependentUpon>SelectExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpatialMap.resx">
+      <DependentUpon>SpatialMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Split.resx">
+      <DependentUpon>Split.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stockdata.resx">
+      <DependentUpon>Stockdata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Summary.resx">
+      <DependentUpon>Summary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timeseries.resx">
+      <DependentUpon>Timeseries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VariableSet.resx">
+      <DependentUpon>VariableSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VISAP商科应用_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

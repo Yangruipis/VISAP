@@ -1,0 +1,173 @@
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.exe.config
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.exe
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.pdb
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.MainForm.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Properties.Resources.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.csproj.GenerateResource.Cache
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.exe
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.pdb
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.SelectExcel.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Summary.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.EasyGraph.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.NAOperation.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Report.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.exe.manifest
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.application
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.exe.manifest
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.application
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.csprojResolveAssemblyReference.cache
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Split.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.VariableSet.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.ImportCSV.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.GraphSet.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.NaiveBayesian.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.MultipleChoice.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Correlation.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Regression.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Binomial.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.BetaPosterior.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Multinomial.resources
+C:\2files\C_sharp_code\商科应用\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.DirichletPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.exe.config
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\bin\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.csprojResolveAssemblyReference.cache
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.BetaPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Binomial.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Correlation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.DirichletPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.EasyGraph.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.GraphSet.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.ImportCSV.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.MainForm.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Multinomial.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.MultipleChoice.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.NaiveBayesian.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.NAOperation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Properties.Resources.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Regression.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Report.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.SelectExcel.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Split.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.Summary.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.VariableSet.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.csproj.GenerateResource.Cache
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用\VISAP商科应用\obj\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\bin\Debug\VISAP商科应用.exe.config
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\bin\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\bin\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\bin\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\bin\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.csprojResolveAssemblyReference.cache
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.BetaPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Binomial.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Correlation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.DirichletPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.EasyGraph.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.GraphSet.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.ImportCSV.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.MainForm.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Multinomial.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.MultipleChoice.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.NaiveBayesian.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.NAOperation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Properties.Resources.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Regression.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Report.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.SelectExcel.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Split.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.Summary.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.VariableSet.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.csproj.GenerateResource.Cache
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（一）\VISAP商科应用\obj\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.exe.config
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.csprojResolveAssemblyReference.cache
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.BetaPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Binomial.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Correlation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.DirichletPosterior.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.EasyGraph.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.GraphSet.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ImportCSV.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.MainForm.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Multinomial.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.MultipleChoice.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.NaiveBayesian.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.NAOperation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation_2Sample.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Properties.Resources.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Regression.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Report.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.SelectExcel.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Split.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Summary.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.VariableSet.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.csproj.GenerateResource.Cache
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting_2Sample.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ANOVA_OneWay.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Timeseries.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.SpatialMap.resources
+D:\SUIBE2\挑战杯\队长的东东\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Stockdata.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.exe.config
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.exe
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\bin\Debug\VISAP商科应用.pdb
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.csprojResolveAssemblyReference.cache
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ANOVA_OneWay.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.BetaPosterior.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Binomial.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Correlation.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.DirichletPosterior.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.EasyGraph.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.GraphSet.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting_2Sample.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.HypothesisTesting.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ImportCSV.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.MainForm.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Multinomial.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.MultipleChoice.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.NaiveBayesian.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.NAOperation.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation_2Sample.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.ParameterEstimation.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Properties.Resources.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Regression.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Report.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.SelectExcel.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.SpatialMap.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Split.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Stockdata.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Summary.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Timeseries.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.VariableSet.resources
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.csproj.GenerateResource.Cache
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.exe.manifest
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.application
+D:\SUIBE2\挑战杯\3.1日更新\VISAP商科应用 (1)\VISAP商科应用（二）\VISAP商科应用\obj\Debug\VISAP商科应用.Economicdata.resources

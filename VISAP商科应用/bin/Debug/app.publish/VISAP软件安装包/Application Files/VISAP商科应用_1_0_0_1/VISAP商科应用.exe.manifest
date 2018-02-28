@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="VISAP商科应用.exe" version="1.0.0.1" publicKeyToken="4c3ee0eb890d48d6" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="VISAP商科应用" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="VISAP商科应用.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VISAP商科应用.exe" size="93696">
+      <assemblyIdentity name="VISAP商科应用" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KBLKAgxw3nYTFGtbH18AZvVH0OqWtO68mF+6KrntP6I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="VISAP商科应用.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=asus-pc-PC\asus-pc" issuerKeyHash="d45fac2ece34c909b05d876144fdaf8fcdd836a6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>RsLcZVHKCM2RCdSbIW9RCj44DzqjRNOraZMxt4AzobI=</DigestValue></Reference></SignedInfo><SignatureValue>JRK39IV3hLLspqobqGBRa+dHuIoSiBkUS/fPIFyPjjbjwag9c0SWSjXPTGcd9iATTu1+1CWFSpApecALncfdCOzDK1tHEtTH0OGqkilHvcuUkYq7c0dvIKffkLUTIXVOrz6karrblvVe+HaIVAdRmNIKkTUpWboZfAplX/DiBH0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7elJjqQwEMY5aSujy3gAE2JxfZlR38e6ibzTeimex1i1YE/BxmtIjMwSqTjjFJ03U6vfnQgOvaIwyaMcIe307w6sboAlm/iVE5eMnyD2fyc70L9Fm/dSO4y42t+QPwwgRxwGu7ohXJY+kIrY/5dQMXxFrWqal4B7cNpY9Bnzn9E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b2a13380b7319369abd344a33a0f383e0a516f219bd40991cd08ca5165dcc246" Description="" Url=""><as:assemblyIdentity name="VISAP商科应用.exe" version="1.0.0.1" publicKeyToken="4c3ee0eb890d48d6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=asus-pc-PC\asus-pc</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>FafTHvcUQRPwuvQwKgSxe3ooruGDaQbuGdn07Vix8XM=</DigestValue></Reference></SignedInfo><SignatureValue>sB1Eq+z020wNRMOHXmtbVMqjjdKczSTt+KNh0KeFySqXYRWuIegbGEBCMxeiKENuA6LMW3nXNqvn9X9uyyHh4m4hUJIUo9uOLF/tVmOB0jDX71VCDXnQgk9M9ij1N8eoeUcXuvI06yGfUzfNJk/swyjH4vsMPo+npUgiTSHpong=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7elJjqQwEMY5aSujy3gAE2JxfZlR38e6ibzTeimex1i1YE/BxmtIjMwSqTjjFJ03U6vfnQgOvaIwyaMcIe307w6sboAlm/iVE5eMnyD2fyc70L9Fm/dSO4y42t+QPwwgRxwGu7ohXJY+kIrY/5dQMXxFrWqal4B7cNpY9Bnzn9E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQTYRIpD+siYJK0quuqTSD9jANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAYQBzAHUAcwAtAHAAYwAtAFAAQwBcAGEAcwB1AHMALQBwAGMwHhcNMTYwMjA4MDYyOTU2WhcNMTcwMjA3MTIyOTU2WjAvMS0wKwYDVQQDHiQAYQBzAHUAcwAtAHAAYwAtAFAAQwBcAGEAcwB1AHMALQBwAGMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAO3pSY6kMBDGOWkro8t4ABNicX2ZUd/Huom803opnsdYtWBPwcZrSIzMEqk44xSdN1Or350IDr2iMMmjHCHt9O8OrG6AJZv4lROXjJ8g9n8nO9C/RZv3UjuMuNrfkD8MIEccBru6IVyWPpCK2P+XUDF8Ra1qmpeAe3DaWPQZ85/RAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAzcbwoNVXyGfPmfvMaskUtu+h/kahLPZVEZR/E6lRs/pPwfZNer6eG9ZeyBphF0hAG5JfTyDnnPQ8XtyY489lMhlf22WlvOTYwfSMnSG/pK/cziGIHhPGnQOqBLsXSJ5LTdMbIlk9qgjijl7lsohRaf7tgnYpLhoiAaygHR8FMBs=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
